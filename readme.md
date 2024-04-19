@@ -10,4 +10,4 @@ EAP
 
 | Nombre | Rol |
 | ------ | --- |
-|Juan Perez | Scrum master |
+|Mendez Mejia Aaron | Scrum master |
